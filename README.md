@@ -60,17 +60,18 @@ lib/
    git clone https://github.com/tasneem987/LocalMarket.git
 ```
 
-Navigate to the project folder:
+2. Navigate to the project folder:
+
 ```bash
 cd LocalMarket
 ```
 
-Get dependencies:
+3. Get dependencies:
 ```bash
 flutter pub get
 ```
 
-Run the app:
+4. Run the app:
 ```bash
 flutter run
 ```
