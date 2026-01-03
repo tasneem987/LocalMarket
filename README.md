@@ -97,9 +97,9 @@ This project is for academic use only.
 
 This is a Flutter mobile app for a local market.
 
-![App Screenshot](images/image5.jpg)
-![App Screenshot](images/image4.jpg)
-![App Screenshot](images/image3.jpg)
-![App Screenshot](images/image2.jpg)
-![App Screenshot](images/image1.jpg)
+![App Screenshot](images/image5.png)
+![App Screenshot](images/image4.png)
+![App Screenshot](images/image3.png)
+![App Screenshot](images/image2.png)
+![App Screenshot](images/image1.png)
 
