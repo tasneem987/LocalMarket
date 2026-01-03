@@ -75,3 +75,21 @@ flutter pub get
 ```bash
 flutter run
 ```
+---
+
+## 📌 Notes
+
+This project is developed for educational purposes.
+
+Backend/API and database are hosted online (no localhost usage).
+
+Assets must be properly included in pubspec.yaml.
+
+## 👩‍💻 Authors
+
+Tasneem Chaheen
+
+## 📄 License
+
+This project is for academic use only.
+
